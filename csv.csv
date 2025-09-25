@@ -1,0 +1,241 @@
+OrderID,OrderDate,Region,Country,State,City,Category,Sub-Category,Product,Quantity,Unit Price,Discount,Sales,Profit,CustomerID,CustomerName
+ORD00214,2019-01-03,West,France,State B,City W,Sports,Fitness,Dumbbells,8,288.74,0.05,2194.42,563.41,CUST2524,Vivaan R.
+ORD00131,2019-01-17,North,Australia,State C,City V,Home,Decor,Vase,1,252.34,0.05,239.72,44.41,CUST5728,Aditya L.
+ORD00143,2019-01-19,East,Mexico,State B,City U,Home,Decor,Cushion,8,535.77,0.05,4071.85,1112.39,CUST8668,Rohan R.
+ORD00051,2019-01-26,Central,France,State H,City S,Beauty,Makeup,Lipstick,1,23.94,0.15,20.35,4.89,CUST2070,Olivia L.
+ORD00233,2019-02-11,East,France,State B,City Y,Home,Furniture,Armchair,3,444.55,0.0,1333.65,241.17,CUST8909,Aarav L.
+ORD00013,2019-02-13,Central,China,State D,City W,Clothing,Men's Wear,Jacket,1,26.03,0.0,26.03,8.49,CUST2160,Lucas R.
+ORD00219,2019-03-05,West,Brazil,State D,City Y,Beauty,Skincare,Face Wash,2,5.9,0.05,11.21,2.73,CUST7563,Emma K.
+ORD00136,2019-03-06,Central,India,State D,City X,Beauty,Makeup,Foundation,3,35.97,0.05,102.51,30.12,CUST8726,Vivaan R.
+ORD00164,2019-03-11,North,USA,State A,City T,Electronics,Accessories,Charger,2,580.38,0.0,1160.76,123.33,CUST8471,Emma K.
+ORD00118,2019-03-13,South,India,State D,City U,Home,Decor,Cushion,1,370.96,0.15,315.32,91.69,CUST7095,Ava K.
+ORD00117,2019-03-28,East,Mexico,State G,City V,Clothing,Men's Wear,Jacket,7,35.43,0.05,235.61,80.57,CUST3339,Sophia L.
+ORD00181,2019-04-01,Central,Australia,State F,City T,Clothing,Men's Wear,T-Shirt,5,25.54,0.05,121.31,31.03,CUST7408,Ava M.
+ORD00126,2019-04-04,Central,France,State D,City T,Sports,Team Sports,Football,8,267.81,0.1,1928.23,474.9,CUST5949,Mia R.
+ORD00197,2019-04-05,North,Brazil,State A,City Y,Electronics,Audio,Bluetooth Speaker,1,793.88,0.15,674.8,70.37,CUST3161,Kriti R.
+ORD00060,2019-04-22,South,China,State F,City S,Beauty,Skincare,Face Wash,5,46.19,0.1,207.85,62.12,CUST8941,Aakash K.
+ORD00124,2019-04-24,North,China,State C,City V,Electronics,Mobiles,Smartphone B,4,309.52,0.1,1114.27,202.25,CUST5105,Priya M.
+ORD00225,2019-04-25,South,Mexico,State G,City U,Electronics,Mobiles,Smartphone A,6,654.66,0.1,3535.16,670.54,CUST1462,Emma M.
+ORD00011,2019-04-29,South,Mexico,State B,City Y,Beauty,Skincare,Sunscreen,3,14.63,0.15,37.31,14.57,CUST3705,Rohan M.
+ORD00193,2019-05-02,Central,Canada,State E,City Z,Home,Kitchen,Knife Set,5,352.19,0.0,1760.95,254.29,CUST7743,Vivaan S.
+ORD00018,2019-05-05,East,USA,State A,City S,Sports,Team Sports,Football,1,288.63,0.0,288.63,80.15,CUST2122,Sophia K.
+ORD00099,2019-05-07,West,India,State F,City Y,Sports,Team Sports,Football,1,81.85,0.15,69.57,20.78,CUST9586,Lucas M.
+ORD00209,2019-05-11,East,Mexico,State B,City S,Beauty,Haircare,Conditioner,1,42.47,0.05,40.35,11.55,CUST5179,Aakash M.
+ORD00212,2019-05-22,West,France,State E,City U,Clothing,Kids,Kids Shorts,1,35.82,0.1,32.24,8.89,CUST5979,Sophia R.
+ORD00089,2019-05-23,South,USA,State B,City W,Beauty,Makeup,Foundation,6,16.81,0.1,90.77,31.76,CUST2391,Vivaan R.
+ORD00033,2019-05-30,West,Australia,State D,City T,Beauty,Makeup,Lipstick,3,54.2,0.0,162.6,61.9,CUST2746,Noah R.
+ORD00052,2019-06-01,Central,USA,State C,City Z,Sports,Outdoor,Tent,4,44.35,0.15,150.79,36.33,CUST4697,Lucas L.
+ORD00016,2019-06-04,West,China,State B,City X,Sports,Fitness,Yoga Mat,4,58.23,0.15,197.98,43.99,CUST7570,Vivaan R.
+ORD00069,2019-06-11,Central,Australia,State D,City S,Sports,Fitness,Yoga Mat,8,194.99,0.15,1325.93,249.67,CUST1153,Ava S.
+ORD00190,2019-06-19,Central,USA,State D,City V,Clothing,Women's Wear,Dress,5,21.77,0.15,92.52,25.55,CUST9115,Amelia M.
+ORD00107,2019-06-21,South,France,State H,City Z,Beauty,Skincare,Face Wash,8,71.35,0.0,570.8,168.2,CUST7495,Lucas S.
+ORD00207,2019-06-26,West,India,State H,City X,Home,Kitchen,Blender,3,89.28,0.05,254.45,62.66,CUST3684,Mia S.
+ORD00121,2019-06-29,East,Canada,State B,City V,Home,Furniture,Bookshelf,3,480.34,0.05,1368.97,194.18,CUST4292,Isha R.
+ORD00159,2019-07-09,Central,Germany,State A,City V,Beauty,Haircare,Oil,1,70.52,0.05,66.99,24.44,CUST4555,Mia R.
+ORD00048,2019-07-10,East,Germany,State G,City W,Home,Kitchen,Blender,6,294.49,0.1,1590.25,312.63,CUST6419,Emma L.
+ORD00174,2019-07-10,Central,Mexico,State F,City T,Clothing,Women's Wear,Top,7,64.54,0.05,429.19,118.99,CUST3778,Olivia R.
+ORD00085,2019-07-14,East,Australia,State F,City V,Home,Furniture,Bookshelf,8,58.94,0.0,471.52,64.5,CUST2582,Emma R.
+ORD00050,2019-07-25,South,France,State D,City U,Electronics,Audio,Headphones,3,255.73,0.0,767.19,112.32,CUST3068,Mia K.
+ORD00202,2019-07-25,South,India,State G,City U,Beauty,Makeup,Lipstick,4,25.77,0.0,103.08,27.28,CUST5668,Aarav S.
+ORD00071,2019-08-07,South,Australia,State F,City V,Home,Furniture,Bookshelf,7,179.2,0.0,1254.4,356.14,CUST9138,Kriti R.
+ORD00082,2019-08-12,West,China,State D,City X,Sports,Outdoor,Backpack,1,27.64,0.15,23.49,6.51,CUST7984,Aakash L.
+ORD00024,2019-08-18,North,UK,State A,City U,Sports,Team Sports,Football,7,46.96,0.1,295.85,60.56,CUST1653,Emma R.
+ORD00144,2019-08-19,East,UK,State H,City V,Electronics,Mobiles,Smartphone C,6,643.08,0.05,3665.56,370.44,CUST7643,Noah M.
+ORD00191,2019-08-20,Central,India,State E,City U,Sports,Fitness,Resistance Band,8,168.44,0.15,1145.39,189.4,CUST5055,Kriti K.
+ORD00074,2019-08-24,West,India,State C,City W,Beauty,Haircare,Conditioner,2,64.3,0.0,128.6,34.41,CUST3024,Ava S.
+ORD00240,2019-09-16,North,Australia,State B,City T,Electronics,Accessories,Charger,5,289.81,0.0,1449.05,131.06,CUST7510,Amelia S.
+ORD00039,2019-09-19,Central,China,State A,City T,Sports,Team Sports,Badminton Racket,1,34.34,0.15,29.19,4.97,CUST8564,Sana K.
+ORD00021,2019-09-29,East,India,State D,City U,Home,Furniture,Armchair,5,374.77,0.0,1873.85,450.13,CUST5905,Aakash R.
+ORD00008,2019-10-11,Central,Brazil,State B,City X,Clothing,Men's Wear,Jacket,3,65.45,0.15,166.9,46.96,CUST7304,Olivia M.
+ORD00175,2019-10-12,East,France,State E,City S,Electronics,Mobiles,Smartphone A,7,256.97,0.1,1618.91,223.58,CUST2260,Emma S.
+ORD00222,2019-11-01,North,Mexico,State D,City V,Beauty,Makeup,Mascara,8,9.57,0.1,68.9,19.91,CUST7868,Priya M.
+ORD00238,2019-11-06,North,India,State F,City T,Sports,Fitness,Resistance Band,1,253.83,0.15,215.76,63.62,CUST8779,Ethan R.
+ORD00090,2019-11-19,Central,USA,State B,City V,Beauty,Haircare,Conditioner,8,50.53,0.15,343.6,92.49,CUST9394,Aakash S.
+ORD00100,2019-11-22,East,Canada,State E,City T,Beauty,Makeup,Mascara,1,64.19,0.1,57.77,13.39,CUST2548,Amelia L.
+ORD00106,2019-11-28,South,Mexico,State C,City V,Clothing,Kids,Kids Shorts,6,48.82,0.0,292.92,88.15,CUST9452,Aakash S.
+ORD00006,2019-12-01,West,Australia,State E,City W,Home,Furniture,Dining Table,1,486.93,0.15,413.89,69.61,CUST4456,Ethan S.
+ORD00217,2019-12-03,West,Brazil,State F,City T,Clothing,Kids,Kids Shorts,4,41.63,0.15,141.54,31.85,CUST2964,Aditya R.
+ORD00068,2019-12-07,East,USA,State A,City U,Clothing,Women's Wear,Top,6,40.15,0.05,228.85,61.86,CUST3950,Sana R.
+ORD00034,2019-12-27,Central,Brazil,State A,City W,Clothing,Women's Wear,Dress,8,56.73,0.1,408.46,139.49,CUST8251,Sophia M.
+ORD00010,2020-01-01,Central,India,State E,City W,Electronics,Audio,Headphones,1,499.21,0.15,424.33,34.94,CUST6947,Kriti R.
+ORD00103,2020-01-05,South,Canada,State H,City W,Electronics,Mobiles,Smartphone A,2,271.84,0.0,543.68,76.62,CUST9843,Lucas K.
+ORD00138,2020-01-29,South,France,State E,City W,Home,Decor,Cushion,4,420.34,0.15,1429.16,253.06,CUST6714,Amelia S.
+ORD00236,2020-02-13,North,USA,State D,City Z,Home,Furniture,Armchair,2,198.84,0.15,338.03,69.22,CUST5341,Aditya M.
+ORD00206,2020-02-21,South,China,State F,City T,Sports,Team Sports,Badminton Racket,2,99.95,0.15,169.91,44.09,CUST4909,Vivaan R.
+ORD00203,2020-02-25,Central,Mexico,State D,City T,Home,Kitchen,Cookware Set,4,307.03,0.0,1228.12,200.67,CUST2163,Lucas K.
+ORD00007,2020-03-11,West,Australia,State H,City Z,Home,Furniture,Dining Table,5,453.27,0.15,1926.4,542.49,CUST7543,Emma R.
+ORD00140,2020-03-14,South,China,State E,City V,Electronics,Mobiles,Smartphone C,4,231.84,0.05,880.99,137.92,CUST1860,Aakash L.
+ORD00205,2020-03-17,North,USA,State G,City V,Sports,Outdoor,Backpack,7,33.9,0.05,225.43,43.2,CUST6077,Aditya M.
+ORD00042,2020-03-22,West,France,State F,City Z,Sports,Team Sports,Badminton Racket,2,235.56,0.05,447.56,131.9,CUST2771,Ethan K.
+ORD00151,2020-03-22,Central,India,State A,City T,Home,Kitchen,Cookware Set,1,562.06,0.0,562.06,167.22,CUST8734,Vivaan S.
+ORD00002,2020-03-23,South,China,State A,City W,Sports,Outdoor,Tent,8,180.89,0.0,1447.12,381.78,CUST3615,Noah S.
+ORD00211,2020-04-04,East,Germany,State G,City U,Home,Furniture,Bookshelf,6,89.25,0.0,535.5,81.55,CUST9450,Vivaan L.
+ORD00108,2020-04-27,West,India,State F,City W,Clothing,Women's Wear,Dress,6,65.4,0.05,372.78,69.53,CUST8740,Isha L.
+ORD00216,2020-04-29,East,France,State F,City T,Home,Decor,Vase,5,155.49,0.05,738.58,106.72,CUST2785,Isha K.
+ORD00054,2020-05-06,South,China,State B,City Z,Clothing,Women's Wear,Top,8,30.39,0.05,230.96,52.88,CUST5632,Ava K.
+ORD00046,2020-05-14,West,Mexico,State G,City U,Clothing,Women's Wear,Top,3,44.13,0.1,119.15,37.61,CUST6576,Rohan M.
+ORD00176,2020-05-20,West,Mexico,State D,City S,Clothing,Men's Wear,Jeans,1,76.42,0.1,68.78,22.22,CUST7224,Liam L.
+ORD00223,2020-05-25,Central,USA,State G,City U,Beauty,Haircare,Conditioner,6,73.45,0.1,396.63,114.99,CUST3946,Aarav S.
+ORD00040,2020-06-16,West,Canada,State D,City S,Home,Decor,Vase,5,456.17,0.15,1938.72,320.68,CUST2341,Mia K.
+ORD00022,2020-06-25,North,India,State C,City V,Home,Kitchen,Cookware Set,6,138.09,0.1,745.69,157.32,CUST5114,Vivaan K.
+ORD00020,2020-06-27,West,UK,State E,City S,Home,Furniture,Dining Table,8,380.27,0.0,3042.16,405.18,CUST4492,Lucas S.
+ORD00049,2020-07-08,East,France,State D,City Y,Electronics,Audio,Headphones,3,193.66,0.15,493.83,55.89,CUST9595,Sophia S.
+ORD00198,2020-07-15,North,Canada,State E,City Y,Home,Kitchen,Blender,3,50.04,0.1,135.11,33.87,CUST4836,Noah K.
+ORD00125,2020-07-16,South,France,State B,City Z,Sports,Team Sports,Football,3,201.03,0.1,542.78,150.01,CUST1674,Aarav K.
+ORD00003,2020-07-23,South,Germany,State F,City Y,Clothing,Women's Wear,Dress,6,69.32,0.1,374.33,118.74,CUST8527,Amelia K.
+ORD00014,2020-07-24,West,Germany,State C,City S,Electronics,Audio,Bluetooth Speaker,4,120.74,0.15,410.52,50.3,CUST7735,Ava K.
+ORD00161,2020-08-02,West,Brazil,State F,City V,Home,Decor,Cushion,8,290.28,0.15,1973.9,507.48,CUST6246,Priya S.
+ORD00101,2020-08-04,East,Mexico,State C,City U,Clothing,Kids,Kids Jacket,3,74.17,0.1,200.26,68.99,CUST7421,Isha M.
+ORD00105,2020-08-06,West,Germany,State D,City V,Beauty,Skincare,Moisturizer,8,39.63,0.1,285.34,102.74,CUST9239,Lucas L.
+ORD00036,2020-08-08,South,France,State F,City U,Sports,Fitness,Yoga Mat,3,77.07,0.05,219.65,56.22,CUST2052,Noah L.
+ORD00139,2020-08-12,North,Mexico,State G,City T,Home,Furniture,Armchair,1,186.83,0.0,186.83,34.07,CUST8247,Rohan L.
+ORD00062,2020-08-20,Central,France,State G,City S,Beauty,Skincare,Moisturizer,3,33.77,0.05,96.24,36.14,CUST5526,Noah S.
+ORD00172,2020-08-27,South,India,State B,City V,Electronics,Audio,Earbuds,3,604.74,0.1,1632.8,201.3,CUST2499,Aarav S.
+ORD00073,2020-08-27,East,Australia,State C,City W,Electronics,Accessories,Phone Case,5,672.85,0.1,3027.83,574.34,CUST8894,Kriti S.
+ORD00235,2020-09-01,South,India,State A,City T,Sports,Team Sports,Cricket Bat,3,25.81,0.0,77.43,16.58,CUST5825,Sophia L.
+ORD00031,2020-09-08,West,China,State A,City V,Home,Furniture,Armchair,6,289.69,0.15,1477.42,356.96,CUST9375,Mia R.
+ORD00114,2020-09-27,Central,Australia,State H,City V,Clothing,Kids,Kids T-Shirt,5,34.99,0.0,174.95,57.24,CUST6438,Rohan K.
+ORD00043,2020-09-30,Central,Australia,State G,City W,Clothing,Kids,Kids Jacket,4,17.13,0.1,61.67,20.01,CUST2983,Ethan K.
+ORD00162,2020-10-02,West,USA,State D,City Z,Clothing,Women's Wear,Skirt,7,30.66,0.05,203.89,48.13,CUST7223,Ethan R.
+ORD00156,2020-10-15,Central,Mexico,State F,City W,Home,Furniture,Bookshelf,4,259.86,0.1,935.5,122.52,CUST3869,Noah M.
+ORD00081,2020-10-25,North,UK,State E,City X,Electronics,Accessories,Phone Case,2,609.25,0.15,1035.72,138.57,CUST6931,Lucas M.
+ORD00145,2020-11-02,North,Australia,State B,City Z,Electronics,Audio,Bluetooth Speaker,4,55.12,0.15,187.41,20.29,CUST5374,Liam S.
+ORD00092,2020-11-02,North,USA,State H,City T,Electronics,Mobiles,Smartphone B,4,425.2,0.1,1530.72,135.7,CUST1693,Noah K.
+ORD00141,2020-11-07,West,India,State C,City X,Sports,Fitness,Dumbbells,8,148.46,0.05,1128.3,297.18,CUST5706,Liam S.
+ORD00037,2020-11-08,Central,Brazil,State G,City X,Electronics,Audio,Bluetooth Speaker,1,692.55,0.15,588.67,80.79,CUST6763,Kriti L.
+ORD00160,2020-11-12,East,USA,State D,City W,Clothing,Kids,Kids Shorts,4,58.69,0.05,223.02,55.18,CUST4921,Amelia S.
+ORD00177,2020-11-16,West,Mexico,State C,City V,Home,Kitchen,Blender,4,297.83,0.05,1131.75,332.31,CUST6228,Kriti L.
+ORD00183,2020-12-03,West,Germany,State H,City U,Beauty,Skincare,Moisturizer,8,28.92,0.1,208.22,47.48,CUST2885,Aarav S.
+ORD00128,2020-12-08,West,UK,State F,City Y,Home,Furniture,Armchair,2,175.13,0.05,332.75,48.37,CUST1829,Kriti L.
+ORD00154,2020-12-09,South,France,State D,City Y,Clothing,Kids,Kids Shorts,1,26.85,0.0,26.85,5.29,CUST1550,Ava M.
+ORD00044,2020-12-12,Central,Australia,State F,City Y,Sports,Team Sports,Cricket Bat,1,256.38,0.15,217.92,36.14,CUST6934,Ava R.
+ORD00187,2020-12-13,East,Brazil,State C,City V,Sports,Team Sports,Football,3,100.82,0.05,287.34,56.26,CUST3999,Emma R.
+ORD00204,2021-01-09,East,UK,State G,City T,Home,Kitchen,Blender,3,462.38,0.0,1387.14,170.62,CUST2106,Aarav S.
+ORD00228,2021-01-17,North,Canada,State G,City Y,Home,Decor,Vase,3,586.0,0.15,1494.3,392.3,CUST8982,Liam R.
+ORD00115,2021-01-23,West,Australia,State H,City T,Home,Furniture,Armchair,8,233.06,0.1,1678.03,443.35,CUST7955,Aditya L.
+ORD00077,2021-01-29,Central,Australia,State C,City T,Clothing,Women's Wear,Skirt,7,75.73,0.1,477.1,88.53,CUST7070,Priya L.
+ORD00112,2021-02-03,East,USA,State F,City Y,Home,Furniture,Bookshelf,2,467.47,0.1,841.45,121.18,CUST6772,Amelia S.
+ORD00167,2021-02-03,West,Brazil,State D,City W,Home,Kitchen,Cookware Set,1,74.23,0.15,63.1,11.86,CUST8798,Vivaan K.
+ORD00004,2021-02-14,North,China,State E,City U,Sports,Fitness,Resistance Band,2,23.29,0.05,44.25,11.77,CUST2307,Neha K.
+ORD00017,2021-02-15,North,Australia,State E,City S,Home,Decor,Cushion,8,109.78,0.1,790.42,125.82,CUST1958,Ethan M.
+ORD00005,2021-02-17,East,Brazil,State F,City Z,Home,Decor,Wall Art,5,427.06,0.0,2135.3,490.36,CUST3803,Amelia R.
+ORD00237,2021-03-04,South,Canada,State G,City U,Electronics,Audio,Headphones,5,379.81,0.1,1709.14,183.13,CUST5400,Ethan K.
+ORD00185,2021-03-21,North,Mexico,State D,City S,Sports,Outdoor,Backpack,1,214.37,0.05,203.65,39.05,CUST2025,Ethan K.
+ORD00152,2021-04-17,South,UK,State G,City U,Beauty,Makeup,Foundation,7,11.02,0.05,73.28,24.74,CUST6697,Aakash R.
+ORD00123,2021-04-18,Central,India,State C,City U,Clothing,Women's Wear,Top,6,18.98,0.05,108.19,33.6,CUST3114,Noah M.
+ORD00066,2021-04-19,South,India,State H,City V,Home,Kitchen,Blender,7,396.91,0.1,2500.53,683.7,CUST9742,Olivia S.
+ORD00026,2021-04-23,South,France,State C,City Y,Beauty,Skincare,Moisturizer,4,19.97,0.15,67.9,19.21,CUST4728,Neha K.
+ORD00038,2021-05-08,Central,China,State D,City S,Electronics,Audio,Bluetooth Speaker,8,71.77,0.1,516.74,82.82,CUST7624,Sana L.
+ORD00232,2021-05-09,South,Australia,State H,City T,Home,Kitchen,Knife Set,2,500.71,0.05,951.35,142.02,CUST2207,Vivaan S.
+ORD00110,2021-05-09,Central,Brazil,State B,City Y,Beauty,Haircare,Oil,1,52.4,0.05,49.78,17.39,CUST5772,Noah K.
+ORD00035,2021-05-23,Central,Brazil,State C,City S,Beauty,Makeup,Lipstick,5,62.44,0.15,265.37,88.32,CUST5499,Ava K.
+ORD00091,2021-05-30,North,France,State H,City V,Clothing,Men's Wear,Jeans,1,10.54,0.1,9.49,3.23,CUST3248,Rohan S.
+ORD00045,2021-06-10,South,China,State E,City S,Beauty,Makeup,Mascara,5,29.17,0.05,138.56,51.2,CUST2419,Rohan L.
+ORD00094,2021-06-13,North,Germany,State G,City T,Sports,Fitness,Dumbbells,5,226.28,0.05,1074.83,214.92,CUST3754,Aditya M.
+ORD00179,2021-06-16,East,India,State G,City S,Electronics,Accessories,Phone Case,4,239.51,0.05,910.14,150.93,CUST7176,Aditya L.
+ORD00078,2021-06-29,South,Canada,State B,City U,Sports,Team Sports,Cricket Bat,1,125.46,0.05,119.19,35.19,CUST8450,Aditya R.
+ORD00173,2021-06-29,East,France,State B,City Z,Clothing,Men's Wear,Jeans,8,48.99,0.15,333.13,65.81,CUST2468,Emma M.
+ORD00109,2021-07-07,Central,USA,State B,City X,Home,Furniture,Dining Table,7,84.49,0.1,532.29,86.64,CUST2996,Vivaan R.
+ORD00192,2021-07-10,East,Canada,State B,City S,Clothing,Men's Wear,T-Shirt,6,70.27,0.15,358.38,74.62,CUST3281,Priya R.
+ORD00053,2021-07-11,West,France,State G,City V,Sports,Team Sports,Football,2,284.8,0.05,541.12,131.94,CUST5335,Aditya R.
+ORD00150,2021-07-17,South,China,State G,City S,Sports,Fitness,Resistance Band,8,205.1,0.1,1476.72,381.72,CUST7487,Rohan K.
+ORD00093,2021-07-30,North,Canada,State G,City T,Beauty,Makeup,Lipstick,7,6.56,0.1,41.33,10.37,CUST8538,Emma K.
+ORD00221,2021-08-02,North,UK,State G,City T,Beauty,Skincare,Moisturizer,7,17.96,0.05,119.43,45.8,CUST5505,Rohan L.
+ORD00158,2021-08-06,North,China,State G,City T,Sports,Team Sports,Football,7,80.43,0.05,534.86,106.73,CUST2295,Ava S.
+ORD00213,2021-08-08,East,Mexico,State H,City W,Sports,Fitness,Yoga Mat,1,280.4,0.0,280.4,51.86,CUST6675,Aarav S.
+ORD00009,2021-08-16,Central,France,State A,City Y,Sports,Outdoor,Camping Stove,6,42.35,0.15,215.99,37.52,CUST1053,Rohan M.
+ORD00239,2021-09-02,East,India,State G,City X,Sports,Team Sports,Badminton Racket,3,44.88,0.15,114.44,20.13,CUST3738,Priya R.
+ORD00227,2021-09-05,North,Canada,State D,City Z,Home,Kitchen,Cookware Set,6,54.54,0.05,310.88,70.13,CUST3320,Aakash M.
+ORD00122,2021-10-08,North,Canada,State F,City S,Sports,Fitness,Resistance Band,2,29.07,0.15,49.42,14.82,CUST8842,Lucas L.
+ORD00157,2021-10-12,North,Canada,State G,City U,Beauty,Makeup,Lipstick,5,33.23,0.15,141.23,37.2,CUST4692,Kriti R.
+ORD00130,2021-10-15,North,India,State G,City S,Electronics,Mobiles,Smartphone C,6,86.49,0.1,467.05,65.1,CUST8710,Kriti M.
+ORD00163,2021-10-19,Central,Canada,State E,City S,Beauty,Makeup,Lipstick,6,17.69,0.15,90.22,22.84,CUST9882,Vivaan M.
+ORD00132,2021-10-29,West,China,State E,City Y,Electronics,Mobiles,Smartphone B,6,646.17,0.1,3489.32,512.72,CUST6990,Isha R.
+ORD00084,2021-11-01,Central,Australia,State B,City Y,Sports,Team Sports,Football,7,140.95,0.05,937.32,198.78,CUST8430,Olivia L.
+ORD00063,2021-11-05,East,USA,State E,City V,Sports,Team Sports,Badminton Racket,8,260.93,0.15,1774.32,409.49,CUST6654,Liam M.
+ORD00188,2021-11-12,West,Australia,State C,City T,Beauty,Skincare,Moisturizer,3,46.62,0.15,118.88,32.33,CUST4065,Liam L.
+ORD00137,2021-11-28,South,China,State F,City S,Sports,Outdoor,Backpack,3,143.3,0.1,386.91,89.74,CUST5331,Sophia L.
+ORD00215,2021-11-30,West,Canada,State H,City Y,Sports,Fitness,Resistance Band,3,194.79,0.15,496.71,80.08,CUST2020,Noah R.
+ORD00208,2021-12-07,Central,France,State C,City U,Electronics,Accessories,Phone Case,2,628.57,0.0,1257.14,151.11,CUST8034,Rohan M.
+ORD00196,2021-12-30,West,Germany,State G,City W,Beauty,Makeup,Foundation,5,30.33,0.05,144.07,46.38,CUST8951,Liam K.
+ORD00186,2022-01-04,South,Canada,State F,City W,Beauty,Skincare,Moisturizer,8,44.58,0.1,320.98,105.11,CUST7431,Ethan K.
+ORD00153,2022-01-05,West,China,State C,City W,Clothing,Men's Wear,Jeans,8,57.14,0.15,388.55,105.08,CUST4762,Neha L.
+ORD00041,2022-01-09,North,Canada,State D,City Y,Clothing,Men's Wear,T-Shirt,4,68.75,0.05,261.25,57.62,CUST8758,Aakash M.
+ORD00064,2022-01-17,West,Brazil,State F,City W,Electronics,Accessories,Phone Case,4,692.01,0.15,2352.83,200.55,CUST8749,Olivia L.
+ORD00059,2022-01-31,North,Brazil,State B,City U,Home,Decor,Wall Art,7,521.65,0.0,3651.55,870.45,CUST9889,Ava L.
+ORD00086,2022-02-13,North,Mexico,State F,City Y,Beauty,Makeup,Mascara,7,70.11,0.0,490.77,193.52,CUST6119,Emma K.
+ORD00120,2022-02-24,North,France,State E,City S,Electronics,Accessories,Phone Case,8,200.13,0.05,1520.99,277.34,CUST8406,Sana L.
+ORD00226,2022-02-28,South,Mexico,State D,City S,Sports,Outdoor,Tent,8,21.01,0.0,168.08,31.08,CUST4584,Aarav M.
+ORD00169,2022-02-28,North,UK,State F,City X,Electronics,Accessories,Charger,7,746.66,0.1,4703.96,468.02,CUST4939,Ethan L.
+ORD00230,2022-03-08,North,UK,State F,City W,Sports,Fitness,Dumbbells,3,106.04,0.0,318.12,59.07,CUST6234,Sana K.
+ORD00056,2022-03-11,East,Brazil,State B,City S,Home,Kitchen,Knife Set,5,310.27,0.15,1318.65,262.14,CUST1653,Noah S.
+ORD00149,2022-03-18,Central,UK,State C,City U,Sports,Outdoor,Tent,4,217.91,0.15,740.89,121.24,CUST9361,Ava K.
+ORD00119,2022-03-21,South,China,State F,City T,Home,Kitchen,Knife Set,4,577.1,0.0,2308.4,582.69,CUST9176,Lucas L.
+ORD00178,2022-03-25,South,Canada,State G,City V,Beauty,Makeup,Lipstick,4,49.42,0.05,187.8,64.36,CUST1440,Ava R.
+ORD00087,2022-03-29,Central,Germany,State C,City S,Electronics,Mobiles,Smartphone B,6,136.16,0.1,735.26,109.47,CUST8030,Amelia M.
+ORD00028,2022-04-04,East,USA,State B,City T,Home,Kitchen,Knife Set,7,371.6,0.0,2601.2,492.5,CUST4114,Rohan K.
+ORD00146,2022-04-07,Central,USA,State E,City U,Electronics,Mobiles,Smartphone C,2,399.05,0.05,758.19,97.54,CUST9233,Kriti K.
+ORD00220,2022-04-07,Central,France,State B,City X,Clothing,Men's Wear,Jacket,8,66.65,0.0,533.2,178.02,CUST6432,Aakash K.
+ORD00058,2022-04-13,West,Brazil,State B,City S,Home,Decor,Vase,6,408.68,0.05,2329.48,417.83,CUST9117,Kriti L.
+ORD00080,2022-05-05,North,France,State C,City Z,Sports,Outdoor,Tent,2,201.71,0.0,403.42,68.49,CUST6869,Neha M.
+ORD00224,2022-05-07,South,USA,State E,City X,Beauty,Haircare,Conditioner,4,78.05,0.0,312.2,82.61,CUST4951,Rohan M.
+ORD00180,2022-05-09,West,Mexico,State G,City T,Sports,Fitness,Dumbbells,2,41.72,0.05,79.27,19.71,CUST6816,Sana M.
+ORD00133,2022-05-18,Central,Australia,State A,City X,Clothing,Men's Wear,Jacket,6,66.28,0.15,338.03,69.4,CUST9446,Isha S.
+ORD00116,2022-05-18,South,China,State E,City U,Clothing,Men's Wear,Jeans,5,31.45,0.15,133.66,27.85,CUST8272,Emma L.
+ORD00057,2022-05-21,East,USA,State B,City W,Sports,Team Sports,Football,5,177.11,0.05,841.27,185.56,CUST8245,Rohan R.
+ORD00012,2022-05-27,West,Germany,State D,City V,Beauty,Haircare,Oil,6,37.86,0.15,193.09,46.69,CUST4681,Aditya S.
+ORD00072,2022-05-28,East,Germany,State D,City V,Electronics,Accessories,Charger,1,281.7,0.15,239.44,20.11,CUST6977,Isha K.
+ORD00134,2022-06-09,East,UK,State G,City V,Sports,Outdoor,Camping Stove,8,215.53,0.1,1551.82,343.32,CUST1272,Emma S.
+ORD00088,2022-06-10,Central,USA,State E,City X,Electronics,Audio,Earbuds,5,741.15,0.1,3335.18,269.26,CUST3347,Ethan L.
+ORD00171,2022-06-11,Central,Australia,State F,City X,Home,Decor,Vase,4,226.37,0.15,769.66,152.19,CUST7227,Aditya M.
+ORD00111,2022-06-13,East,Germany,State G,City Z,Clothing,Kids,Kids Shorts,2,76.74,0.0,153.48,37.81,CUST8702,Vivaan L.
+ORD00098,2022-06-13,Central,China,State G,City S,Sports,Team Sports,Badminton Racket,1,140.42,0.05,133.4,26.44,CUST8792,Lucas R.
+ORD00129,2022-06-14,West,Germany,State C,City U,Sports,Team Sports,Cricket Bat,4,231.31,0.15,786.45,235.46,CUST8648,Mia S.
+ORD00165,2022-06-19,Central,Brazil,State H,City X,Clothing,Kids,Kids Jacket,7,10.83,0.1,68.23,18.5,CUST5697,Aarav M.
+ORD00189,2022-06-22,North,Canada,State A,City S,Electronics,Mobiles,Smartphone B,8,356.85,0.15,2426.58,315.15,CUST8272,Mia R.
+ORD00067,2022-07-07,West,China,State A,City Y,Electronics,Accessories,Cable,5,798.07,0.0,3990.35,527.03,CUST2612,Aakash L.
+ORD00061,2022-07-14,Central,Germany,State C,City V,Sports,Fitness,Resistance Band,7,37.03,0.0,259.21,56.82,CUST2924,Isha L.
+ORD00097,2022-07-17,East,France,State A,City U,Sports,Fitness,Dumbbells,8,141.06,0.0,1128.48,231.69,CUST5703,Aditya K.
+ORD00095,2022-07-20,North,China,State D,City U,Home,Kitchen,Blender,3,157.04,0.05,447.56,74.33,CUST3842,Sophia R.
+ORD00195,2022-07-21,North,Australia,State E,City U,Beauty,Makeup,Foundation,1,70.17,0.0,70.17,24.67,CUST8511,Emma K.
+ORD00023,2022-07-23,West,France,State A,City X,Home,Furniture,Bookshelf,5,113.72,0.15,483.31,105.99,CUST8007,Amelia K.
+ORD00147,2022-08-01,East,Canada,State D,City W,Electronics,Audio,Headphones,8,610.8,0.1,4397.76,571.28,CUST9998,Mia M.
+ORD00001,2022-08-02,North,USA,State E,City W,Electronics,Mobiles,Smartphone C,2,557.52,0.0,1115.04,168.21,CUST1520,Aarav K.
+ORD00201,2022-08-06,South,India,State A,City Z,Beauty,Makeup,Mascara,4,52.11,0.05,198.02,76.35,CUST8248,Priya K.
+ORD00079,2022-08-07,Central,USA,State A,City U,Electronics,Mobiles,Smartphone C,4,101.46,0.05,385.55,57.97,CUST4817,Liam R.
+ORD00113,2022-08-09,South,Brazil,State H,City Z,Electronics,Mobiles,Smartphone C,8,77.74,0.05,590.82,50.37,CUST4268,Vivaan S.
+ORD00142,2022-08-15,North,India,State D,City X,Electronics,Audio,Headphones,1,797.88,0.15,678.2,118.38,CUST4052,Kriti K.
+ORD00184,2022-08-20,North,UK,State D,City Z,Sports,Fitness,Dumbbells,7,287.95,0.05,1914.87,516.37,CUST4022,Sana L.
+ORD00234,2022-08-31,South,Mexico,State G,City Z,Clothing,Men's Wear,Jeans,4,78.21,0.15,265.91,79.38,CUST9849,Rohan S.
+ORD00096,2022-09-04,North,UK,State H,City S,Sports,Team Sports,Cricket Bat,6,260.63,0.1,1407.4,242.98,CUST2118,Mia L.
+ORD00194,2022-09-05,South,UK,State D,City Z,Home,Furniture,Bookshelf,7,303.89,0.1,1914.51,446.09,CUST7146,Ava K.
+ORD00032,2022-09-11,North,France,State F,City Y,Electronics,Accessories,Phone Case,4,654.92,0.05,2488.7,206.39,CUST5011,Mia M.
+ORD00027,2022-09-13,South,Australia,State F,City V,Clothing,Women's Wear,Top,7,57.57,0.1,362.69,123.2,CUST2889,Rohan R.
+ORD00104,2022-09-17,East,Mexico,State C,City T,Electronics,Mobiles,Smartphone A,3,590.89,0.0,1772.67,229.21,CUST4891,Ava M.
+ORD00065,2022-09-21,South,Brazil,State A,City Z,Sports,Team Sports,Cricket Bat,2,263.52,0.15,447.98,73.9,CUST8486,Aarav R.
+ORD00148,2022-09-22,South,Germany,State B,City S,Sports,Team Sports,Cricket Bat,2,276.0,0.0,552.0,87.91,CUST9972,Lucas R.
+ORD00030,2022-09-27,West,Canada,State G,City V,Sports,Fitness,Yoga Mat,7,202.83,0.15,1206.84,303.64,CUST3851,Sophia M.
+ORD00155,2022-10-08,North,Germany,State A,City T,Beauty,Skincare,Sunscreen,4,61.58,0.0,246.32,60.4,CUST5739,Neha M.
+ORD00075,2022-10-09,East,Mexico,State G,City U,Clothing,Kids,Kids T-Shirt,8,11.75,0.1,84.6,28.39,CUST4626,Aditya L.
+ORD00015,2022-10-11,North,USA,State G,City U,Clothing,Men's Wear,T-Shirt,4,47.54,0.05,180.65,45.47,CUST5563,Ava R.
+ORD00135,2022-10-11,North,Australia,State E,City X,Sports,Outdoor,Backpack,4,219.21,0.15,745.31,130.86,CUST7229,Isha R.
+ORD00210,2022-10-12,North,Germany,State A,City X,Clothing,Men's Wear,T-Shirt,8,35.48,0.05,269.65,56.74,CUST1579,Amelia L.
+ORD00019,2022-10-14,South,Australia,State B,City W,Sports,Team Sports,Football,2,131.58,0.1,236.84,68.73,CUST4346,Liam R.
+ORD00170,2022-10-18,Central,Canada,State G,City Z,Clothing,Kids,Kids Jacket,6,13.76,0.15,70.18,15.4,CUST2245,Liam M.
+ORD00070,2022-10-19,Central,UK,State B,City S,Home,Kitchen,Knife Set,7,420.38,0.15,2501.26,680.73,CUST4263,Olivia L.
+ORD00025,2022-10-28,South,India,State F,City T,Sports,Team Sports,Football,4,260.74,0.05,990.81,279.62,CUST1406,Sana S.
+ORD00127,2022-11-03,West,France,State H,City Y,Clothing,Men's Wear,Jeans,7,43.9,0.05,291.94,69.43,CUST3353,Liam S.
+ORD00218,2022-11-06,East,Mexico,State A,City W,Home,Furniture,Dining Table,4,581.67,0.15,1977.68,420.1,CUST5896,Rohan R.
+ORD00055,2022-11-08,South,France,State D,City T,Clothing,Kids,Kids T-Shirt,3,73.59,0.05,209.73,40.3,CUST3718,Kriti M.
+ORD00182,2022-11-15,Central,UK,State F,City X,Beauty,Skincare,Moisturizer,7,74.04,0.0,518.28,124.85,CUST3321,Emma S.
+ORD00200,2022-11-22,South,Brazil,State B,City W,Beauty,Skincare,Sunscreen,2,12.74,0.1,22.93,8.68,CUST3246,Olivia R.
+ORD00166,2022-11-30,West,UK,State B,City Y,Sports,Fitness,Yoga Mat,4,189.74,0.1,683.06,185.99,CUST5379,Olivia K.
+ORD00076,2022-12-06,East,Australia,State B,City Z,Clothing,Men's Wear,Jeans,8,18.13,0.05,137.79,45.59,CUST3222,Olivia L.
+ORD00047,2022-12-07,East,China,State A,City W,Clothing,Men's Wear,Jacket,7,44.2,0.05,293.93,87.42,CUST9041,Ava K.
+ORD00168,2022-12-10,South,India,State H,City T,Home,Kitchen,Cookware Set,1,153.26,0.15,130.27,21.99,CUST2218,Rohan M.
+ORD00199,2022-12-12,North,USA,State D,City S,Clothing,Men's Wear,Jacket,4,46.36,0.15,157.62,28.62,CUST6629,Aakash L.
+ORD00229,2022-12-19,Central,Mexico,State F,City W,Sports,Fitness,Dumbbells,5,222.86,0.1,1002.87,169.59,CUST1029,Ethan L.
+ORD00029,2022-12-22,West,USA,State D,City U,Beauty,Skincare,Sunscreen,6,51.74,0.0,310.44,108.52,CUST5920,Lucas S.
+ORD00231,2022-12-22,East,Brazil,State A,City V,Electronics,Mobiles,Smartphone C,2,312.86,0.0,625.72,104.15,CUST1788,Olivia L.
+ORD00102,2022-12-22,North,France,State G,City U,Electronics,Accessories,Cable,2,534.52,0.15,908.68,128.14,CUST1298,Emma S.
+ORD00083,2022-12-29,West,India,State B,City U,Sports,Fitness,Yoga Mat,3,89.75,0.1,242.33,50.2,CUST9692,Kriti L.
